@@ -11,8 +11,7 @@ import java.util.Scanner;
  *       Task: Tutorials > 30 Days of Code > Day 12: Inheritance
  *       Link: https://www.hackerrank.com/challenges/30-inheritance/problem
  * 
- * CTO, Java Expert, e-commerce guru - available for hire:
- * https://www.naschenweng.info/cv
+ * CTO, Java Expert, e-commerce guru - available for hire: https://www.naschenweng.info/cv
  */
 class Person {
   protected String firstName;
