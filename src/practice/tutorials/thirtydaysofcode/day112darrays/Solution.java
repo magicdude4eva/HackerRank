@@ -11,12 +11,9 @@ import java.util.Scanner;
  *       Task: Tutorials > 30 Days of Code > Day 11: 2D Arrays
  *       Link: https://www.hackerrank.com/challenges/30-2d-arrays/problem
  * 
- * CTO, Java Expert, e-commerce guru - available for hire:
- * https://www.naschenweng.info/cv
+ * CTO, Java Expert, e-commerce guru - available for hire: https://www.naschenweng.info/cv
  */
 public class Solution {
-
-
 
     private static final Scanner scanner = new Scanner(System.in);
 
