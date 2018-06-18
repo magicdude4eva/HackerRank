@@ -5,7 +5,7 @@ import java.util.Scanner;
 /*
  *     Author: Gerd W. Naschenweng
  *     Github: https://github.com/magicdude4eva
- * HackerRank: https://www.hackerrank.com/MagicDude4Eva?hr_r=1
+ * HackerRank: https://www.hackerrank.com/MagicDude4Eva
  *    Twitter: https://twitter.com/gerdnaschenweng
  *    
  *       Task: Tutorials > 30 Days of Code > Day 12: Inheritance
