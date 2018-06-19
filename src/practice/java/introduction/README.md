@@ -18,4 +18,4 @@
 |[Introduction > Java Loops 2](https://www.hackerrank.com/challenges/java-loops/problem)                                      |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/introduction/javaloopsi/Solution.java)                                             |
 |[Introduction > Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem)                |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/introduction/javaoutputformatting/Solution.java)                                   |
 |[Introduction > Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem)  |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/introduction/javastaticinitializerblock/Solution.java)                             |
-
+|                                                                      |                                                                                                                                                                             |

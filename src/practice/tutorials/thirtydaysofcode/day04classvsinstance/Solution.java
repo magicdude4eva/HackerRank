@@ -1,0 +1,56 @@
+package practice.tutorials.thirtydaysofcode.day04classvsinstance;
+
+import java.util.*;
+
+/*
+ *     Author: Gerd W. Naschenweng
+ *     Github: https://github.com/magicdude4eva
+ * HackerRank: https://www.hackerrank.com/MagicDude4Eva
+ *    Twitter: https://twitter.com/gerdnaschenweng
+ *    
+ *       Task: Practice > Tutorials > 30 Days of Code > Day 4: Class vs. Instance
+ *       Link: https://www.hackerrank.com/challenges/30-class-vs-instance/problem
+ * 
+ * CTO, Java Expert, e-commerce guru - available for hire: https://www.naschenweng.info/cv
+ */
+
+class Person {
+   
+  private int age = 0;  
+
+public Person(int initialAge) {
+    // Add some more code to run some checks on initialAge
+      if (initialAge >= 0) {
+          age = initialAge;
+      } else {
+          System.out.println("Age is not valid, setting age to 0.");
+      }
+}
+
+public void amIOld() {
+    // Write code determining if this person's age is old and print the correct statement:
+      String myAgeText = age < 13 ? "You are young." : (age >= 13 && age < 18 ? "You are a teenager." : "You are old.");
+      System.out.println(myAgeText);
+}
+
+public void yearPasses() {
+    // Increment this person's age.
+      ++age;
+}
+
+public static void main(String[] args) {
+  Scanner sc = new Scanner(System.in);
+  int T = sc.nextInt();
+  for (int i = 0; i < T; i++) {
+    int age = sc.nextInt();
+    Person p = new Person(age);
+    p.amIOld();
+    for (int j = 0; j < 3; j++) {
+      p.yearPasses();
+    }
+    p.amIOld();
+    System.out.println();
+      }
+  sc.close();
+  }
+}
