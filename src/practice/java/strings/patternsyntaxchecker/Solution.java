@@ -3,7 +3,6 @@ package practice.java.strings.patternsyntaxchecker;
 import java.util.*;
 import java.util.regex.*;
 
-
 /*
  *     Author: Gerd W. Naschenweng
  *     Github: https://github.com/magicdude4eva

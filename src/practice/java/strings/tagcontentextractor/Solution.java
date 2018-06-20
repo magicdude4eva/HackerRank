@@ -40,6 +40,3 @@ public class Solution{
     in.close();
   }
 }
-
-
-

@@ -47,3 +47,4 @@ public class Solution {
         System.out.println(getSmallestAndLargest(s, k));
     }
 }
+

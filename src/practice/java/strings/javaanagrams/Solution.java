@@ -44,4 +44,3 @@ public class Solution {
     System.out.println( (ret) ? "Anagrams" : "Not Anagrams" );
 }
 }
-  

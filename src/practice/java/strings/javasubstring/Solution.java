@@ -23,5 +23,6 @@ public class Solution {
         int end = in.nextInt();
         
         System.out.println (S.substring(start, end));
+        in.close();
     }
 }

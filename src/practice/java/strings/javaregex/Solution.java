@@ -16,6 +16,7 @@ import java.util.*;
 
 class Solution {
 
+  @SuppressWarnings ("static-access")
   public static void main(String[] args){
       Scanner in = new Scanner(System.in);
       while(in.hasNext()){
