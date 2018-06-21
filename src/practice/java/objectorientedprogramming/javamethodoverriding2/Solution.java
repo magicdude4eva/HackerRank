@@ -32,8 +32,9 @@ class MotorCycle extends BiCycle{
   
 }
 class Solution{
+  @SuppressWarnings ("unused")
   public static void main(String []args){
-    MotorCycle M=new MotorCycle();
+    MotorCycle M = new MotorCycle();
   }
 }
     
