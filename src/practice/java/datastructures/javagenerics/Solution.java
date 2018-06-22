@@ -1,7 +1,6 @@
 package practice.java.datastructures.javagenerics;
 
 import java.lang.reflect.Method;
-import java.util.*;
 
 /*
  *     Author: Gerd W. Naschenweng
@@ -47,3 +46,4 @@ public class Solution {
     
   }
 }
+

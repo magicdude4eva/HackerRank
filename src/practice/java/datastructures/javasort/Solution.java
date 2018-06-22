@@ -66,12 +66,15 @@ public class Solution {
       
       testCases--;
     }
+    
+    in.close();
         
-        // Sort magic
-        Collections.sort(studentList);
+    // Sort magic
+    Collections.sort(studentList);
         
-        for(Student st: studentList){
+    for (Student st: studentList) {
       System.out.println(st.getFname());
     }
+    
   }
 }
