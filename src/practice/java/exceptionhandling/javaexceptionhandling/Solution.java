@@ -26,8 +26,7 @@ class MyCalculator {
       }
       
       return (long) Math.pow(n, p);
-  }
-  
+  }  
 }
 
 public class Solution {

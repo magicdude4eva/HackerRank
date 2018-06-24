@@ -92,3 +92,12 @@ Commented solutions to HackerRank's coding challenges.
 |[Advanced > Java Varargs - Simple Addition](https://www.hackerrank.com/challenges/simple-addition-varargs/problem)           |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/advanced/javavarargssimpleaddition/Solution.java)                                  |
 |[Advanced > Java Visitor Pattern](https://www.hackerrank.com/challenges/java-vistor-pattern/problem)                         |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/advanced/javavisitorpattern/Solution.java)                                         |
 |[Advanced > Prime Checker](https://www.hackerrank.com/challenges/prime-checker/problem)                                      |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/advanced/primechecker/Solution.java)                                               |
+
+# Practice > Java > Exception Handling > Java Exception Handling
+<a href="https://www.hackerrank.com/domains/java?filters%5Bsubdomains%5D%5B%5D=handling-exceptions">Practice > Java > Exception Handling > Java Exception Handling</a>
+
+| Topic                                                                                                                                            |                                                                                   Solution                                                                                  |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|[Exception Handling > Java Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling/problem)                             |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/exceptionhandling/javaexceptionhandling/Solution.java)                             |
+|[Exception Handling > Java Exception Handling (Try-catch)](https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem)       |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/exceptionhandling/javaexceptionhandlingtrycatch/Solution.java)                     |
+
