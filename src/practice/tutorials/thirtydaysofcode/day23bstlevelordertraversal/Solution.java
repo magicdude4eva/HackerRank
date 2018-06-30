@@ -72,7 +72,7 @@ public static void main(String args[]){
             int data=sc.nextInt();
             root=insert(root,data);
         }
-        sc.close(); // savage Hackerrone testers do not close the scanner....
+        sc.close(); // savage HackerOne testers do not close the scanner....
         levelOrder(root);
     } 
 }
