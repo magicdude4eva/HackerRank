@@ -12,7 +12,9 @@ ___
 
 
 <p>
-Commented solutions to HackerRank's coding challenges.
+Commented solutions to HackerRank's coding challenges. 
+    
+I am not your conventional "powerpoint" CTO: I code daily, contribute to opensource projects, am not scared of Java, Python, Bash, ElasticSearch, Linux ~ [I am also for hire](https://www.naschenweng.info/cv) . Connect with me on [LinkedIn](https://www.linkedin.com/in/gerdnaschenweng/) and [Xing](https://www.xing.com/profile/Gerd_Naschenweng/portfolio).
 </p>
 
 # Practice in Java
