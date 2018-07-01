@@ -1,103 +1,49 @@
+[paypal]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZRP5WBD8CT8EW
 <p align="center">
     <a href="https://www.hackerrank.com/MagicDude4Eva">
         <img height="85" src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
     </a>
     <br>HackerRank Solutions
 </p>
+
+![paypal](https://img.shields.io/badge/PayPal--ffffff.svg?style=social&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8%2F9hAAAABHNCSVQICAgIfAhkiAAAAZZJREFUOI3Fkb1PFFEUxX%2F3zcAMswFCw0KQr1BZSKUQYijMFibGkhj9D4zYYAuU0NtZSIiNzRZGamqD%2BhdoJR%2FGhBCTHZ11Pt%2B1GIiEnY0hFNzkFu%2FmnHPPPQ%2Buu%2BTiYGjy0ZPa5N1t0SI5m6mITeP4%2B%2FGP%2Fbccvto8j3cuCsQTSy%2FCzLkdxqkXpoUXJoUXJrkfFTLMwHiDYLrFz897Z3jT6ckdBwsiYDMo0tNOIGuBqS%2Beh7sdAkU2g%2BkBFGkd%2FrtSgD8Z%2BrBxj68MAGG1A9efRhVsXrKMU7Y4cNyGOwtDU28OtrqdUMetldvzFKxCYSHJ4NsJ%2BnRJGexHba7VJ%2FTff4BaQFBjVcbqIEZ1bESYn4PRUcHx2N952awUkOHZedUcWm14%2FtjqjREHawUEsgx6Ajg5%2Bsi7jWqBwA%2BmIrXlo9YHUVTmEP%2F6hOO1Ofiyy3pjo%2BsvBDX%2FZpSakhz4BqvQDvdYvrXQEXZViI5rPpBEOwR2l16vtN7bd9SN3L1WXj%2BjGSnN38rq%2B7VL8xXQOdDF%2F0KvXn8BlbuY%2FvUAHysAAAAASUVORK5CYII%3D)
+:beer: **Please support me**: Although all my software is free, it is always appreciated if you can support my efforts on Github with a [contribution via Paypal][paypal] - this allows me to write cool projects like this in my personal time and hopefully help you or your business. 
+___
+
+
 <p>
 Commented solutions to HackerRank's coding challenges.
 </p>
 
-# Practice > Java
-<a href="https://www.hackerrank.com/domains/java?badge_type=java&filters%5Bsubdomains%5D%5B%5D=java-introduction">Introduction to Java</a>
+# Practice in Java
+* [Practice > Java Introduction](https://github.com/magicdude4eva/HackerRank/tree/master/src/practice/java/introduction)
+* [Practice > Java > Strings](https://github.com/magicdude4eva/HackerRank/tree/master/src/practice/java/strings)
+* [Practice > Java > Advanced](https://github.com/magicdude4eva/HackerRank/tree/master/src/practice/java/advanced)
+* [Practice > Java > Object Oriented Programming](https://github.com/magicdude4eva/HackerRank/tree/master/src/practice/java/objectorientedprogramming)
+* [Practice > Java > BigNumber](https://github.com/magicdude4eva/HackerRank/tree/master/src/practice/java/bignumber)
+* [Practice > Java > Data Structures](https://github.com/magicdude4eva/HackerRank/tree/master/src/practice/java/datastructures)
+* [Practice > Java > Exception Handling](https://github.com/magicdude4eva/HackerRank/tree/master/src/practice/java/exceptionhandling)
 
-| Topic                                                                                                                       |                                                                                   Solution                                                                                  |
-|:----------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|[Introduction > Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem)              |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/introduction/javacurrencyformatter/Solution.java)                                  |
-|[Introduction > Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem)                                |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/introduction/javadatatypes/Solution.java)                                          |
-|[Introduction > Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem)                        |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/introduction/javadateandtime/Solution.java)                                        |
-|[Introduction > Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem)                                    |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/introduction/javaifelse/Solution.java)                                             |
-|[Introduction > Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem)                                    |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/introduction/javaloopsii/Solution.java)                                            |
-|[Introduction > Java Loops 2](https://www.hackerrank.com/challenges/java-loops/problem)                                      |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/introduction/javaloopsi/Solution.java)                                             |
-|[Introduction > Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem)                |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/introduction/javaoutputformatting/Solution.java)                                   |
-|[Introduction > Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem)  |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/introduction/javastaticinitializerblock/Solution.java)                             |
+# Contests
+* [Project Euler+](https://github.com/magicdude4eva/HackerRank/tree/master/src/contests/projecteuler)
 
-# Practice > Java > Strings
-<a href="https://www.hackerrank.com/domains/java?filters%5Bsubdomains%5D%5B%5D=java-strings">Practice > Java > Strings</a>
+# Tutorials
+* [Tutorial index](https://github.com/magicdude4eva/HackerRank/tree/master/src/practice/tutorials)
+* [Cracking the Coding Interview](https://github.com/magicdude4eva/HackerRank/tree/master/src/practice/tutorials/crackingthecodinginterview)
+* [30 Days of Code in Java](https://github.com/magicdude4eva/HackerRank/tree/master/src/practice/tutorials/thirtydaysofcode)
 
-| Topic                                                                                                                       |                                                                                   Solution                                                                                  |
-|:----------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|[Strings > Java Regex 2 - Duplicate Words](https://www.hackerrank.com/challenges/duplicate-word/problem)                     |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/strings/duplicatewords/Solution.java)                                              |
-|[Strings > Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem)                                       |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/strings/javaanagrams/Solution.java)                                                |
-|[Strings > Java Regex](https://www.hackerrank.com/challenges/java-regex/problem)                                             |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/strings/javaregex/Solution.java)                                                   |
-|[Strings > Java String Reverse (Palindrome)](https://www.hackerrank.com/challenges/java-string-reverse/problem)              |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/strings/javastringreverse/Solution.java)                                           |
-|[Strings > Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem)                             |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/strings/javastringtokens/Solution.java)                                            |
-|[Strings > Java Substring](https://www.hackerrank.com/challenges/java-substring/problem)                                     |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/strings/javasubstring/Solution.java)                                               |
-|[Strings > Java Substring Comparison](https://www.hackerrank.com/challenges/java-string-compare/problem)                     |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/strings/javasubstringcomparisons/Solution.java)                                    |
-|[Strings > Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem)                     |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/strings/patternsyntaxchecker/Solution.java)                                        |
-|[Strings > Tag Content Extractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem)                       |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/strings/tagcontentextractor/Solution.java)                                         |
-|[Strings > Valid Username Regular Expression](https://www.hackerrank.com/challenges/valid-username-checker/problem)          |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/strings/validusernameregularexpression/Solution.java)                              |
 
-# Practice > Java > Data Structures
-<a href="https://www.hackerrank.com/domains/java?filters%5Bsubdomains%5D%5B%5D=java-data-structure">Data Structures</a>
+## Donations are always welcome
+If this helped you in any way, you can always leave me a tip at
+```
+(Ripple) rPz4YgyxPpk7xqQQ9P7CqNFvK17nhBdfoy
+(BTC)    1Mhq9SY6DzPhs7PNDx7idXFDWsGtyn7GWM
+(ETH)    0xb0f2d091dcdd036cd26017bb0fbd6c1488fc8d04
+(LTC)    LTfP7yJSpGFvuPqjSEKaqcjue6KSA9118y
+(XVG)    D5nBpFBaD6vmVJ5CBUhkz8E4SNWscf6pMu
+(BNB)    0xb0f2d091dcdd036cd26017bb0fbd6c1488fc8d04
+```
 
-| Topic                                                                                                                       |                                                                                   Solution                                                                                  |
-|:----------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|[Data Structures > Java 1D Array (Part 2)](https://www.hackerrank.com/challenges/java-1d-array/problem)                      |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/datastructures/java1darraypart2/Solution.java)                                     |
-|[Data Structures > Java 2D Array](https://www.hackerrank.com/challenges/java-2d-array/problem)                               |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/datastructures/java2darray/Solution.java)                                          |
-|[Data Structures > Java Arraylist](https://www.hackerrank.com/challenges/java-arraylist/problem)                             |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/datastructures/javaarraylist/Solution.java)                                        |
-|[Data Structures > Java BitSet](https://www.hackerrank.com/challenges/java-bitset/problem)                                   |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/datastructures/javabitset/Solution.java)                                           |
-|[Data Structures > Java Comparator](https://www.hackerrank.com/challenges/java-comparator/problem)                           |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/datastructures/javacomparator/Solution.java)                                       |
-|[Data Structures > Java Dequeue](https://www.hackerrank.com/challenges/java-dequeue/problem)                                 |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/datastructures/javadequeue/test.java)                                              |
-|[Data Structures > Java Generics](https://www.hackerrank.com/challenges/java-generics/problem)                               |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/datastructures/javagenerics/Solution.java)                                         |
-|[Data Structures > Java List](https://www.hackerrank.com/challenges/java-list/problem)                                       |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/datastructures/javalist/Solution.java)                                             |
-|[Data Structures > Java Map](https://www.hackerrank.com/challenges/phone-book/problem)                                       |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/datastructures/javamap/Solution.java)                                              |
-|[Data Structures > Java Priority Queue](https://www.hackerrank.com/challenges/java-priority-queue/problem)                   |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/datastructures/javapriorityqueue/Solution.java)                                    |
-|[Data Structures > Java Sort](https://www.hackerrank.com/challenges/java-sort/problem)                                       |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/datastructures/javasort/Solution.java)                                             |
-|[Data Structures > Java Stack](https://www.hackerrank.com/challenges/java-stack/problem)                                     |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/datastructures/javastack/Solution.java)                                            |
-|[Data Structures > Java Subarray](https://www.hackerrank.com/challenges/java-negative-subarray/problem)                      |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/datastructures/javasubarray/Solution.java)                                         |
+Sign up to [Cointracking](https://cointracking.info?ref=M263159) which uses APIs to connect to all exchanges and helps you with tax. Use [Binance Exchange](https://www.binance.com/?ref=13896895) to trade #altcoins. Join [TradingView](http://tradingview.go2cloud.org/aff_c?offer_id=2&aff_id=7432) to get trend-reports.
 
-# Practice > Java > Object Oriented Programming
-<a href="https://www.hackerrank.com/domains/java?filters%5Bsubdomains%5D%5B%5D=oop">Practice > Java > Object Oriented Programming</a>
-
-| Topic                                                                                                                                            |                                                                                   Solution                                                                                  |
-|:-------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|[OO Programming > Java Instanceof](https://www.hackerrank.com/challenges/java-instanceof-keyword/problem)                                         |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/objectorientedprogramming/javainstanceofkeyword/InstanceOFTutorial.java)           |
-|[OO Programming > Java Interface](https://www.hackerrank.com/challenges/java-interface/problem)                                                   |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/objectorientedprogramming/javainterface/Solution.java)                             |
-|[OO Programming > Java Iterator](https://www.hackerrank.com/challenges/java-iterator/problem)                                                     |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/objectorientedprogramming/javaiterator/Main.java)                                  |
-|[OO Programming > Java Method Overriding 2 (Super Keyword)](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem) |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/objectorientedprogramming/javamethodoverriding2/Solution.java)                     |
-
-# Practice > Java > BigNumber
-<a href="https://www.hackerrank.com/domains/java?filters%5Bsubdomains%5D%5B%5D=bignumber">Practice > Java > BigNumber</a>
-
-| Topic                                                                                                                       |                                                                                   Solution                                                                                  |
-|:----------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|[Java > BigNumber > Java BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem)                          |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/bignumber/javabigdecimal/Solution.java)                                            |
-|[Java > BigNumber > Java Primality Test](https://www.hackerrank.com/challenges/java-primality-test/problem)                  |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/bignumber/javaprimalitytest/Solution.java)                                         |
-
-# Practice > Java > Advanced
-<a href="https://www.hackerrank.com/domains/java?filters%5Bsubdomains%5D%5B%5D=java-advanced">Advanced Java</a>
-
-| Topic                                                                                                                       |                                                                                   Solution                                                                                  |
-|:----------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|[Advanced > Can You Access?](https://www.hackerrank.com/challenges/can-you-access/problem)                                   |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/advanced/canyouaccess/Solution.java)                                               |
-|[Advanced > Covariant Return Types](https://www.hackerrank.com/challenges/java-covariance/problem)                           |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/advanced/covariantreturntypes/Solution.java)                                       |
-|[Advanced > Java Annotations](https://www.hackerrank.com/challenges/java-annotations/problem)                                |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/advanced/javaannotations/Solution.java)                                            |
-|[Advanced > Java Factory Pattern](https://www.hackerrank.com/challenges/java-factory/problem)                                |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/advanced/javafactorypattern/Solution.java)                                         |
-|[Advanced > Java Lambda Expressions](https://www.hackerrank.com/challenges/java-lambda-expressions/problem)                  |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/advanced/javalambdaexpressions/Solution.java)                                      |
-|[Advanced > Java MD5](https://www.hackerrank.com/challenges/java-md5/problem)                                                |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/advanced/javamd5/Solution.java)                                                    |
-|[Advanced > Java Reflection - Attributes](https://www.hackerrank.com/challenges/java-reflection-attributes/problem)          |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/advanced/javareflectionattributes/Solution.java)                                   |
-|[Advanced > Java SHA-256](https://www.hackerrank.com/challenges/sha-256/problem)                                             |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/advanced/javasha256/Solution.java)                                                 |
-|[Advanced > Java Singleton Pattern](https://www.hackerrank.com/challenges/java-singleton/problem)                            |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/advanced/javasingletonpattern/Solution.java)                                       |
-|[Advanced > Java Varargs - Simple Addition](https://www.hackerrank.com/challenges/simple-addition-varargs/problem)           |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/advanced/javavarargssimpleaddition/Solution.java)                                  |
-|[Advanced > Java Visitor Pattern](https://www.hackerrank.com/challenges/java-vistor-pattern/problem)                         |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/advanced/javavisitorpattern/Solution.java)                                         |
-|[Advanced > Prime Checker](https://www.hackerrank.com/challenges/prime-checker/problem)                                      |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/advanced/primechecker/Solution.java)                                               |
-
-# Practice > Java > Exception Handling > Java Exception Handling
-<a href="https://www.hackerrank.com/domains/java?filters%5Bsubdomains%5D%5B%5D=handling-exceptions">Practice > Java > Exception Handling > Java Exception Handling</a>
-
-| Topic                                                                                                                                            |                                                                                   Solution                                                                                  |
-|:-------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|[Exception Handling > Java Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling/problem)                             |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/exceptionhandling/javaexceptionhandling/Solution.java)                             |
-|[Exception Handling > Java Exception Handling (Try-catch)](https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem)       |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/practice/java/exceptionhandling/javaexceptionhandlingtrycatch/Solution.java)                     |
-
+If you are poor, follow me at least on [Twitter](https://twitter.com/gerdnaschenweng)!
