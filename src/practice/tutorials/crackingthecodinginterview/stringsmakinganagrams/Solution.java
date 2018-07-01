@@ -44,6 +44,5 @@ public class Solution {
         
         return a.length() + b.length();
     }
-    
-    
 }
+
