@@ -1,4 +1,4 @@
-[paypal]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZRP5WBD8CT8EW
+[paypal]: https://paypal.me/GerdNaschenweng
 <p align="center">
     <a href="https://www.hackerrank.com/MagicDude4Eva">
         <img height="85" src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
