@@ -1,7 +1,7 @@
 [paypal]: https://paypal.me/GerdNaschenweng
 <p align="center">
     <a href="https://www.hackerrank.com/MagicDude4Eva">
-        <img height="85" src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
+        <img width="427" alt="CleanShot 2021-11-27 at 12 50 05@2x" src="https://user-images.githubusercontent.com/1632781/143680098-a782eec8-901a-4712-8656-77f6b1d999d8.png">
     </a>
     <br>HackerRank Solutions
 </p>
@@ -49,7 +49,7 @@ I am not your conventional "powerpoint" CTO: I code daily, contribute to opensou
 (XLM)    GB67TJFJO3GUA432EJ4JTODHFYSBTM44P4XQCDOFTXJNNPV2UKUJYVBF (Memo ID: 1406379394)
 ```
 
-Go to [Curve.com to add your Crypto.com card to ApplePay](https://www.curve.com/join#DWPXKG6E) and signup to [Crypto.com for a staking and free Crypto debit card](https://crypto.com/exch/ref6ayzqvp).
+Go to [Curve.com to add your Crypto.com card to ApplePay](https://www.curve.com/join#DWPXKG6E) and signup to [Crypto.com for a staking and free Crypto debit card](https://crypto.com/app/ref6ayzqvp).
 
 Use [Binance Exchange](https://www.binance.com/?ref=13896895) to trade #altcoins. Sign up with [Coinbase](https://www.coinbase.com/join/nasche_x) and **instantly get $10 in BTC**. I also accept old-school **[PayPal](https://paypal.me/GerdNaschenweng)**.
 
