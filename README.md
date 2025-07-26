@@ -53,7 +53,6 @@ Go to [Curve.com to add your Crypto.com card to ApplePay](https://www.curve.com/
 Use [Binance Exchange](https://accounts.binance.com/register?ref=13896895) to trade #altcoins. I also accept old-school **[PayPal](https://paypal.me/GerdNaschenweng)**.
 
 
-
 Use [Binance Exchange](https://www.binance.com/?ref=13896895) to trade #altcoins. I also accept old-school **[PayPal](https://paypal.me/GerdNaschenweng)**.
 
 If you have no crypto, follow me at least on [Twitter](https://twitter.com/gerdnaschenweng).
