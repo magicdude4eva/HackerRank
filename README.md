@@ -18,21 +18,21 @@ I am not your conventional "powerpoint" CTO: I code daily, contribute to opensou
 </p>
 
 # Practice in Java
-* [Practice > Java Introduction](https://github.com/magicdude4eva/HackerRank/tree/master/src/practice/java/introduction)
-* [Practice > Java > Strings](https://github.com/magicdude4eva/HackerRank/tree/master/src/practice/java/strings)
-* [Practice > Java > Advanced](https://github.com/magicdude4eva/HackerRank/tree/master/src/practice/java/advanced)
-* [Practice > Java > Object Oriented Programming](https://github.com/magicdude4eva/HackerRank/tree/master/src/practice/java/objectorientedprogramming)
-* [Practice > Java > BigNumber](https://github.com/magicdude4eva/HackerRank/tree/master/src/practice/java/bignumber)
-* [Practice > Java > Data Structures](https://github.com/magicdude4eva/HackerRank/tree/master/src/practice/java/datastructures)
-* [Practice > Java > Exception Handling](https://github.com/magicdude4eva/HackerRank/tree/master/src/practice/java/exceptionhandling)
+* [Practice > Java Introduction](https://github.com/magicdude4eva/HackerRank/tree/main/src/practice/java/introduction)
+* [Practice > Java > Strings](https://github.com/magicdude4eva/HackerRank/tree/main/src/practice/java/strings)
+* [Practice > Java > Advanced](https://github.com/magicdude4eva/HackerRank/tree/main/src/practice/java/advanced)
+* [Practice > Java > Object Oriented Programming](https://github.com/magicdude4eva/HackerRank/tree/main/src/practice/java/objectorientedprogramming)
+* [Practice > Java > BigNumber](https://github.com/magicdude4eva/HackerRank/tree/main/src/practice/java/bignumber)
+* [Practice > Java > Data Structures](https://github.com/magicdude4eva/HackerRank/tree/main/src/practice/java/datastructures)
+* [Practice > Java > Exception Handling](https://github.com/magicdude4eva/HackerRank/tree/main/src/practice/java/exceptionhandling)
 
 # Contests
-* [Project Euler+](https://github.com/magicdude4eva/HackerRank/tree/master/src/contests/projecteuler)
+* [Project Euler+](https://github.com/magicdude4eva/HackerRank/tree/main/src/contests/projecteuler)
 
 # Tutorials
-* [Tutorial index](https://github.com/magicdude4eva/HackerRank/tree/master/src/practice/tutorials)
-* [Cracking the Coding Interview](https://github.com/magicdude4eva/HackerRank/tree/master/src/practice/tutorials/crackingthecodinginterview)
-* [30 Days of Code in Java](https://github.com/magicdude4eva/HackerRank/tree/master/src/practice/tutorials/thirtydaysofcode)
+* [Tutorial index](https://github.com/magicdude4eva/HackerRank/tree/main/src/practice/tutorials)
+* [Cracking the Coding Interview](https://github.com/magicdude4eva/HackerRank/tree/main/src/practice/tutorials/crackingthecodinginterview)
+* [30 Days of Code in Java](https://github.com/magicdude4eva/HackerRank/tree/main/src/practice/tutorials/thirtydaysofcode)
 
 
 

@@ -13,5 +13,5 @@ Commented solutions to HackerRank's coding challenges.
 
 | Topic                                                                                                                         |                                                                                   Solution                                                                                  |
 |:------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|[Project Euler #1: Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001)                 |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/master/src/contests/projecteuler/euler0001multiplesof3and5/Solution.java)                                   |
+|[Project Euler #1: Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001)                 |[Solution.java](https://github.com/magicdude4eva/HackerRank/blob/main/src/contests/projecteuler/euler0001multiplesof3and5/Solution.java)                                   |
 |[]()              |[Solution.java]()                                  |
